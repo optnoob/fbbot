@@ -1,6 +1,6 @@
 {
-  "name": "messenger-get-started",
-  "version": "1.0.0",
+  "name": "PastpaperBOT",
+  "version": "0.0.0",
   "description": "Get started example for Messenger Platform",
   "main": "app.js",
   "scripts": {
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/fbsamples/messenger-platform-samples.git"
+    "url": "https://github.com/optnoob/fbbot.git"
   },
   "author": "Facebook",
   "license": "ISC",
